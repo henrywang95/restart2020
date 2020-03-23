@@ -26,10 +26,10 @@ For this particular project, there are no specific installation requirements
 <!-- Write instructions on how to start working on your project -->
 ### Inspiration
 In this few weeks, I find people really don't like the 2020 on social media. So I want to build a web app based these feelings.
-![alt text](https://github.com/henrywang95/restart2020/blob/master/inspiration/1.PNG))
-![alt text](https://github.com/henrywang95/restart2020/blob/master/inspiration/2.PNG))
+![alt text](https://github.com/henrywang95/restart2020/blob/master/inspiration/1.PNG)
+![alt text](https://github.com/henrywang95/restart2020/blob/master/inspiration/2.JPG)
 ![alt text](https://github.com/henrywang95/restart2020/blob/master/inspiration/3.PNG))
-![alt text](https://github.com/henrywang95/restart2020/blob/master/inspiration/4.PNG))
+![alt text](https://github.com/henrywang95/restart2020/blob/master/inspiration/4.PNG)
 
 
 <!-- Notes about the deployment -->
@@ -73,10 +73,10 @@ This is README template is licensed according to [Attribution 4.0 International 
 Design
 When I think about these project, I want think more about the user flow of the web experience. And here is my hand made work flow.
 
-![alt text](https://github.com/henrywang95/restart2020/blob/master/sketch.JPG))
+![alt text](https://github.com/henrywang95/restart2020/blob/master/sketch.JPG)
 
 And more detail
-![alt text](https://github.com/henrywang95/restart2020/blob/master/userflow.jpeg))
+![alt text](https://github.com/henrywang95/restart2020/blob/master/userflow.jpeg)
 
 
 <!-- References for resources and inspiration -->
