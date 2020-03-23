@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+  <title>Re Start 2020</title>
+  <meta charset="UTF-8" />
+  <link rel="stylesheet" href="https://use.typekit.net/uvs3lku.css">
+  <style>
+    html,
+    body {
+      width: 100%;
+      height: 100%;
+    }
+
+    #stickman {
+      position: absolute;
+      top: 33%;
+    }
+
+    .compliment {
+      position: absolute;
+      width: 100%;
+      text-align: center;
+      font-family: Eurostile;
+      top: 31%;
+      font-size: 20px;
+      vertical-align: middle;
+    }
+
+    #button1 {
+      font-size: 14px;
+      background-color: #FEB265;
+      color: white;
+      border-radius: 30px;
+      padding: 3px 7px;
+      opacity: 0.9;
+      margin: 30px;
+      font-family: Eurostile;
+    }
+  </style>
+</head>
+
+<body>
+    <script>
+
+    let myData;
+
+function preload(){
+    // we request our data at the /api endpoint
+    myData = loadJSON("/post");
+    console.log(myData);
+}
+
+</script>
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.3/p5.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.3/addons/p5.dom.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.3/addons/p5.sound.min.js"></script>
+<!-- your p5 sketch -->
+</body>
+
+</html>
+

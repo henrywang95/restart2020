@@ -1,0 +1,23 @@
+{
+  "name": "final-project",
+  "version": "0.0.1",
+  "description": "This is Henry Wang's final project for Joey's DWD class ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Henry Haoyu Wang",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.5",
+    "morgan": "^1.10.0",
+    "nedb": "^1.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
