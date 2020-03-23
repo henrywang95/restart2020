@@ -4,8 +4,13 @@
 This is the Readme file for the final project
 
 <!-- It is good practice to add an about or summary -->
- ## ASSIGNMENT 5
-This is about 
+ ## About
+For the final project. I want to have a web app make people have some positive feelings for this year.The web app structures in four parts. 
+1. Loading page: User can choose yes or no for beginning the application.
+2. The yes page: In this page, user can write how they would start this year. Than, I will stroe the idea in the database. 
+3. The submission page: Give user some positive feedback, ask them to move on.
+4. The no page: Countdown the time from now to 2021 01 01.
+
 <!-- It is essential to describe how to set up your project -->
 ## Setup
 
@@ -37,7 +42,7 @@ In this few weeks, I find people really don't like the 2020 on social media. So 
 
 This project is hosted on Github. Github renders markdown files.
 This project is deployed on heroku.
-You can view my final project at [here] (https://restart2020.herokuapp.com/)
+You can view my final project at [here](https://restart2020.herokuapp.com/)
 ## Built with
 
 * [VS Code](https://code.visualstudio.com/)
